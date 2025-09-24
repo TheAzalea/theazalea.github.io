@@ -39,7 +39,8 @@ body {
   font-family: "Bytesized";
 }
 
-a, h1, h2, h3, h4, h5, h6 {
+a, h1, h2, h3, h5, h5, h6 {
+  text-decoration: none;
   color: plum;
   background: linear-gradient(90deg, plum, skyblue);
   -webkit-background-clip: text;
